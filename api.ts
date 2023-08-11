@@ -1,6 +1,6 @@
 import express, { Router } from "express";
 
-import post from "./src/components/posts/posts.router";
+import post from "@components/posts/posts.router";
 
 const router: Router = Router();
 

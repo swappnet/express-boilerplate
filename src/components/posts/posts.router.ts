@@ -7,7 +7,7 @@ import {
   removePost,
   updatePost,
 } from "./posts.controller";
-import { validatePost } from "../../core/middleware/posts.middleware";
+import { validatePost } from "@core/middleware/posts.middleware";
 
 const router: Router = Router();
 

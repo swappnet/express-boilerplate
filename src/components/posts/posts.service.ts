@@ -1,9 +1,9 @@
 import { Request } from "express";
 import fs from "fs";
-import { IPost } from "./posts.interface";
+import { IPost } from "@components/posts/posts.interface";
 import path from "path";
 
-import db from "../../database/db.json";
+import db from "@database/db.json";
 
 const databasePath = path.join(__dirname, "../../database/db.json");
 
