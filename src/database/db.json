@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to JSON",
+      "author": "JohnDoe",
+      "content": "JSON (JavaScript Object Notation) is a lightweight data-interchange format...",
+      "timestamp": "2023-08-04 10:00:00"
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with Python",
+      "author": "JaneSmith",
+      "content": "Python is a popular high-level programming language...",
+      "timestamp": "2023-08-04 11:30:00"
+    },
+    {
+      "id": 3,
+      "title": "Benefits of Regular Exercise",
+      "author": "FitnessFanatic",
+      "content": "Regular exercise has numerous benefits for both physical and mental health...",
+      "timestamp": "2023-08-04 14:15:00"
+    }
+  ]
+}
