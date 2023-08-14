@@ -50,7 +50,7 @@ const verifyAuthRequest = async (
     }
   }
 };
-const authentication = async (
+const authenticate = async (
   req: Request,
   res: Response,
   next: NextFunction
@@ -72,4 +72,4 @@ const authentication = async (
   }
 };
 
-export { authentication, verifyAuthRequest };
+export { authenticate, verifyAuthRequest };

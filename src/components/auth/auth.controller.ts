@@ -57,6 +57,7 @@ const registerUser = async (req: Request, res: Response) => {
 };
 
 const getMe = async (req: Request, res: Response) => {
+  // Get information about current user, using token
   try {
     const { email, username } = req.body;
     res.status(httpStatus.OK);

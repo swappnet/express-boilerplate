@@ -2,7 +2,7 @@ import { Router } from "express";
 
 import { loginUser, registerUser, getMe } from "./auth.controller";
 import {
-  authentication,
+  authenticate,
   verifyAuthRequest,
 } from "@core/middleware/auth.middleware";
 
@@ -12,6 +12,6 @@ router.get("/login", verifyAuthRequest, loginUser);
 
 router.post("/register", verifyAuthRequest, registerUser);
 
-router.get("/me", authentication, getMe);
+router.get("/me", authenticate, getMe);
 
 export default router;

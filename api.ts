@@ -1,10 +1,10 @@
 import express, { Router } from "express";
 
-import auth from "@components/auth/auth.router";
+import authRoutes from "@components/auth/auth.router";
 
 const router: Router = Router();
 
 router.use(express.json());
-router.use(auth);
+router.use(authRoutes);
 
 export default router;
