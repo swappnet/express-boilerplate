@@ -1,100 +1,72 @@
 [
   {
-    "id": 1,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:29:41.637Z"
+    "email": "user1@example.com",
+    "password": "$2b$10$Yod7AJ0vMyPz8lMO6o3VouFWuTeWlPVKBbI/mEYMhRe.lpytsOw1q",
+    "username": "swappnet"
   },
   {
-    "id": 2,
-    "title": "1",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:30:46.533Z"
+    "email": "user2@example.com",
+    "password": "$2b$10$lT1hZWezOry2v4l6fQvg6.ONefGAHYo50C5aRdT6gDC4bAoc0cOUW",
+    "username": "test2"
   },
   {
-    "id": 3,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:32:23.801Z"
+    "email": "user2@example.com",
+    "password": "$2b$10$dguA06dKCjO4ci/TN3A60eXXM7eQraxRkHNHcaBmZDs1iV8dGp7E6",
+    "username": "test2"
   },
   {
-    "id": 4,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:32:28.243Z"
+    "email": "user2@example.com",
+    "password": "$2b$10$l/HTKSL5VNAGv8xlyJ/45uvDY9I4I8IsIiV.CqINSLHjC8xXIsi0O",
+    "username": "test2"
   },
   {
-    "id": 5,
-    "title": "1",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:32:49.772Z"
+    "email": "user2@example.com",
+    "password": "$2b$10$6T4I3B3G7lu2nuoaVvotIe5kY5XvS7fj3q5KmLwqUIU58S/8Gd8PC",
+    "username": "test2"
   },
   {
-    "id": 6,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:34:20.794Z"
+    "email": "user2@example.com",
+    "password": "$2b$10$TjJb4xZAp5lX/bInmXUwcuiW0xWFJ4rkTmuozQAvovY0QtOAy.9Z.",
+    "username": "test2"
   },
   {
-    "id": 7,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:34:59.248Z"
+    "email": "user2@example.com",
+    "password": "$2b$10$4/GVAvBg94ucCL2oCHa7feo2AhBENyrdS/DLhSppcJjdUxc7I0Q1G",
+    "username": "test2"
   },
   {
-    "id": 8,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:37:02.223Z"
+    "email": "user3@example.com",
+    "password": "$2b$10$PKIL.PODpfovdFBvqih0S.qpKvlLt6.MMiv4Y.M.9x1l0MQDXNQUy",
+    "username": "test2"
   },
   {
-    "id": 9,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:37:11.111Z"
+    "email": "user3@example.com",
+    "password": "$2b$10$99BvBjcIQSq0ULFgFLNu2uJ1GIEcJE8S3pZJjFKTe.Ed6varGGtNi",
+    "username": "test2"
   },
   {
-    "id": 10,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:37:13.277Z"
+    "email": "user4@example.com",
+    "password": "$2b$10$DjQchM4j2daoozPIoAEd.ONOh5LW.NZ8ArvTi4V8Z09yQRH5IppmO",
+    "username": "test2"
   },
   {
-    "id": 11,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:37:14.091Z"
+    "email": "user4@example.com",
+    "password": "$2b$10$1swXCtxwJi4i.jB.OWsYQuXQW6gUO8ZoX7bHVBOwJRoToWRF0noqm",
+    "username": "test2"
   },
   {
-    "id": 12,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:37:14.803Z"
+    "email": "user4@example.com",
+    "password": "$2b$10$nLZXA73DZYwBrHyrDLeLHurLN0OVduhtzAnG85jB3bKxhMY7eiXtK",
+    "username": "test2"
   },
   {
-    "id": 13,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:38:12.767Z"
+    "email": "user5@example.com",
+    "password": "$2b$10$IKViSYkz3pb6AZL9vufn7.JRh0qYHaaYJGGMsBFtbeB3IVlhz7x2m",
+    "username": "1"
   },
   {
-    "id": 14,
-    "title": "Test title",
-    "author": "John Lebowski",
-    "content": "Test content",
-    "timestamp": "2023-08-11T15:38:14.223Z"
+    "email": "user5@example.com",
+    "password": "$2b$10$jFgHvjcfuYiBnkCQQZfdEexsyzWbPXzgRbNV.MTFIN8AQ1i54wMhu",
+    "username": "1"
   }
 ]

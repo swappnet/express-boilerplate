@@ -1,10 +1,10 @@
 import express, { Router } from "express";
 
-import post from "@components/posts/posts.router";
+import auth from "@components/auth/auth.router";
 
 const router: Router = Router();
 
 router.use(express.json());
-router.use(post);
+router.use(auth);
 
 export default router;
